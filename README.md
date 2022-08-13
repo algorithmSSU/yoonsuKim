@@ -6,4 +6,5 @@
 | 3주차  |  [boj1463](https://www.acmicpc.net/problem/1463) [풀이](boj1463.ipynb) <br> [boj2193](https://www.acmicpc.net/problem/2193)  [풀이](boj2193.ipynb) <br>[boj10844](https://www.acmicpc.net/problem/10844) [풀이](boj10844.ipynb) <br> [boj9252](https://www.acmicpc.net/problem/9252) [풀이](boj9252.ipynb) <br> [boj1328](https://www.acmicpc.net/problem/1328) [풀이](boj1328.ipynb) <br> [boj11049](https://www.acmicpc.net/problem/11049) [풀이](boj11049.ipynb) <br> [boj14003](https://www.acmicpc.net/problem/14003) [풀이](boj14003.ipynb)  |
 | 4주차  | [boj14501](https://www.acmicpc.net/problem/14501) [풀이](boj14501.ipynb) <br> [boj11726](https://www.acmicpc.net/problem/11726) [풀이](boj11726.ipynb) <br> [boj13398](https://www.acmicpc.net/problem/13398) [풀이](boj13398.ipynb) <br> [boj1915](https://www.acmicpc.net/problem/1915) [풀이](boj1915.ipynb) <br> [boj2342](https://www.acmicpc.net/problem/2342) [풀이](boj2342.ipynb) |
 | 5주차  | 프로그래머스 레벨테스트 [level1](./programmers_level1.ipynb) [level2](./programmers_level2.ipynb) [level3](./programmers_level3.ipynb)  |
- 
+| 6주차| 프로그래머스 | 
+
